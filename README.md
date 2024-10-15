@@ -41,5 +41,10 @@ Error Handling
 Invalid images: "No face detected in the image."
 
 
+To add a new user, go to the following URL: /admin. The username and password for admin access are:
+
+Username: admin
+Password: admin
+
 https://github.com/user-attachments/assets/8ed4e78f-7954-487c-999a-85fa240d990c
 
